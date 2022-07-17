@@ -9,8 +9,10 @@ Machine learning models - ARIMA, SARIMA, KNN, Linear Regression, Random Forest m
 Deep learning models - RNN and LSTM models
 Language - Tensorflow, keras, python, Matplotlib, Numpy, Pandas
 # Final Result
-![Figure 5 Mean square error values for the benchmark models](https://user-images.githubusercontent.com/38637722/179386562-7c926ac3-8f45-4b4f-bb99-4a1c3e87b048.jpg)
+![image](https://user-images.githubusercontent.com/38637722/179386884-ee20617d-fed0-4b04-923f-ec080e9854e7.png)
 ![image](https://user-images.githubusercontent.com/38637722/179386813-29a990a6-d4c3-47a1-bb26-b9d78bb4894c.png)
-
+![image](https://user-images.githubusercontent.com/38637722/179386830-35e9791f-048a-40a2-bb5b-3cf98bdfb1a4.png)
+![image](https://user-images.githubusercontent.com/38637722/179386870-0f4513a8-ba7a-4ee5-a8a9-672e6fee9641.png)
+![image](https://user-images.githubusercontent.com/38637722/179386878-64c2a007-6107-448a-a558-0174d05e5d14.png)
 # Conclusion
 In this work we have focused on the problem of modelling email traffic workloads by treating traffic as a time series function. We have discussed the existing literature and we have used RNN and LSTM models for modelling email traffic gathered from four different universities. We have shown that with the use of appropriate initialization of the training weights, proper activation functions and hyper-parameters the performance of the RNN model can be substantially improved for modelling email traffic. However, the highest accuracy achieved by RNN is smaller for most email traffic categories in our datasets than the performance achieved by LSTM. 

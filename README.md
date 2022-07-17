@@ -14,5 +14,7 @@ Language - Tensorflow, keras, python, Matplotlib, Numpy, Pandas
 ![image](https://user-images.githubusercontent.com/38637722/179386830-35e9791f-048a-40a2-bb5b-3cf98bdfb1a4.png)
 ![image](https://user-images.githubusercontent.com/38637722/179386870-0f4513a8-ba7a-4ee5-a8a9-672e6fee9641.png)
 ![image](https://user-images.githubusercontent.com/38637722/179386878-64c2a007-6107-448a-a558-0174d05e5d14.png)
+![image](https://user-images.githubusercontent.com/38637722/179386974-93f08f0b-e46d-4310-9166-3905610bf0f7.png)
+![image](https://user-images.githubusercontent.com/38637722/179386979-6b55f83c-60f0-4668-a022-003868969692.png)
 # Conclusion
 In this work we have focused on the problem of modelling email traffic workloads by treating traffic as a time series function. We have discussed the existing literature and we have used RNN and LSTM models for modelling email traffic gathered from four different universities. We have shown that with the use of appropriate initialization of the training weights, proper activation functions and hyper-parameters the performance of the RNN model can be substantially improved for modelling email traffic. However, the highest accuracy achieved by RNN is smaller for most email traffic categories in our datasets than the performance achieved by LSTM. 

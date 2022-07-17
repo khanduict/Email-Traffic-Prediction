@@ -5,6 +5,11 @@ The datasets were collected from four universities namely Technical University o
 # Architecture
 ![Figure 6 Proposed model architecture](https://user-images.githubusercontent.com/38637722/179386227-fc112ac7-a601-49ca-80c1-29863b730ab6.jpg)
 # Tools & Technologies
+Machine learning models - ARIMA, SARIMA, KNN, Linear Regression, Random Forest models
+Deep learning models - RNN and LSTM models
+Language - Tensorflow, keras, python, Matplotlib, Numpy, Pandas
 # Final Result
+![Figure 5 Mean square error values for the benchmark models](https://user-images.githubusercontent.com/38637722/179386562-7c926ac3-8f45-4b4f-bb99-4a1c3e87b048.jpg)
+
 # Conclusion
 In this work we have focused on the problem of modelling email traffic workloads by treating traffic as a time series function. We have discussed the existing literature and we have used RNN and LSTM models for modelling email traffic gathered from four different universities. We have shown that with the use of appropriate initialization of the training weights, proper activation functions and hyper-parameters the performance of the RNN model can be substantially improved for modelling email traffic. However, the highest accuracy achieved by RNN is smaller for most email traffic categories in our datasets than the performance achieved by LSTM. 
